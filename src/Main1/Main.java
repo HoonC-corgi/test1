@@ -17,6 +17,7 @@ public class Main {
                 sum += n;   // 입력 받은 n이 양수일 때 sum에 포함
             }
         }
+
         System.out.println("양수의 합은 " + sum);
         scanner.close();
     }
